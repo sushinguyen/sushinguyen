@@ -19,6 +19,7 @@ I am an **Artificial Intelligence** student at Van Lang University (VLU). I am d
 - 🤖 **Artificial Intelligence**
 - 📊 **Machine Learning**
 - 🕸️ **Deep Learning**
+- 👾 **Bot Development & Automation**
 
 ---
 
