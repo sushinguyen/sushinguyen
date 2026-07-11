@@ -49,10 +49,9 @@ I am always open to discussing, collaborating, or sharing knowledge in these are
 ### 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/sushinguyen">
-    <img src="https://github-profile-trophy.vercel.app/?username=sushinguyen&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushinguyen&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
----
 
 ### 📫 Connect with Me
 
