@@ -47,12 +47,13 @@ I am always open to discussing, collaborating, or sharing knowledge in these are
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushinguyen&show_icons=true&theme=radical&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushinguyen&layout=compact&theme=radical&v=1" alt="Top Languages" />
-</p>
+<div align="center">
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushinguyen&show_icons=true&theme=radical&v=3)](https://github.com/sushinguyen)
+  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushinguyen&layout=compact&theme=radical&v=3)](https://github.com/sushinguyen)
 
+</div>
 ---
 
 ### 📫 Connect with Me
