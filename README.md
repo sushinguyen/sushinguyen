@@ -50,7 +50,7 @@ I am always open to discussing, collaborating, or sharing knowledge in these are
 ### 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/sushinguyen">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushinguyen&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=sushinguyen&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
