@@ -12,7 +12,7 @@ I am an **Artificial Intelligence** student at Van Lang University (VLU) with fo
   - Researching and developing **Natural Language Processing (NLP)** systems (since 2026).
   - Programming and optimizing custom **Discord Bots** (since 2024 - now).
 - **Cybersecurity & Research:** Studied network security and contributed to a research project on intelligent **IDS (Intrusion Detection Systems)** for network infrastructure protection.
-  - Deployed and configured a server to host customer data (Sep 2025 – Jan 2026)
+  - Deployed and configured a dedicated server to host customer data (Sep 2025 – Jan 2026)
 - **Infrastructure:** Hosting and maintaining multiplayer experiences for Minecraft, ARK: Survival Evolved/Ascended, GTA 5. (since 2025 - now).
 
 ---
