@@ -24,16 +24,6 @@ I am an **Artificial Intelligence** student at Van Lang University (VLU) with fo
 - **Deep Learning**
 - **Bot Development & Automation**
 
----
-
-### 💬 Ask Me About / Core Strengths
-
-I am always open to discussing, collaborating, or sharing knowledge in these areas:
-- Network planning and configuration using **Cisco Packet Tracer**.
-- **Asynchronous Programming** in Python.
-- **Event-Driven Programming** in both Python and Node.js.
-
----
 
 ### 🛠️ Tech Stack
 #### Languages & Frameworks
