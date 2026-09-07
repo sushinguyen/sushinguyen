@@ -1,16 +1,19 @@
 # Hi there 👋, I'm Nguyen Thi Xuan Huong!
 
-I am an **Artificial Intelligence** student at Van Lang University (VLU). I am deeply passionate about data science, AI systems, and developing smart automation workflows.
+I am an **Artificial Intelligence** student at Van Lang University (VLU) with foundational studies in **Cybersecurity**. I am deeply passionate about data science, AI systems, and developing smart automation workflows.
 
 ---
 
 ### 🚀 About Me
 
 - **Education:** Majoring in Artificial Intelligence at VLU.
-- **Experience:** Former Teaching Assistant (TA) for an advanced international class focusing on Java and Python.
-- **Current Focus:** - Researching and developing **Natural Language Processing (NLP)** systems (since 2026).
-  - Programming and optimizing custom **Discord Bots** (since 2024).
-- **Past Research:** Contributed to a research project on intelligent **IDS (Intrusion Detection Systems)** for network infrastructure protection.
+- **Experience:** Former Teaching Assistant (TA) for an advanced international class focusing on Java and Python. (Feb 2026 - June 2026)
+- **Current Focus:** 
+  - Researching and developing **Natural Language Processing (NLP)** systems (since 2026).
+  - Programming and optimizing custom **Discord Bots** (since 2024 - now).
+- **Cybersecurity & Research:** Studied network security and contributed to a research project on intelligent **IDS (Intrusion Detection Systems)** for network infrastructure protection.
+  - Deployed and configured a server to host customer data (Sep 2025 – Jan 2026)
+- **Infrastructure:** Hosting and maintaining multiplayer experiences for Minecraft, ARK: Survival Evolved/Ascended, GTA 5. (since 2025 - now).
 
 ---
 
