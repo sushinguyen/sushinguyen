@@ -14,7 +14,9 @@ I am an **Artificial Intelligence** student at Van Lang University (VLU) with fo
 - **Cybersecurity & Research:** Studied network security and contributed to a research project on intelligent **IDS (Intrusion Detection Systems)** for network infrastructure protection.
   - Deployed and configured a dedicated server to host customer data (Sep 2025 – Jan 2026)
 - **Infrastructure:** Hosting and maintaining multiplayer experiences for Minecraft, ARK: Survival Evolved/Ascended, GTA 5. (since 2025 - now).
-
+- **Research & Publications:**
+  - **ICEEIS 2026:** Co-authored the research paper **“Boundary-Guided LoRA Adaptation of SAM for Robust Cross-Dataset Polyp Segmentation”** (Submission ID: 181).
+  - Research interests include **Computer Vision, Medical Image Segmentation, Deep Learning, and Parameter-Efficient Fine-Tuning**.
 ---
 
 ### 🧠 Research Interests
