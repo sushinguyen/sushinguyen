@@ -7,16 +7,16 @@ I am an **Artificial Intelligence** student at Van Lang University (VLU) with fo
 ### 🚀 About Me
 
 - **Education:** Majoring in Artificial Intelligence at VLU.
-- **Experience:** Former Teaching Assistant (TA) for an advanced international class focusing on Java and Python. (Feb 2026 - June 2026)
-- **Current Focus:** 
-  - Researching and developing **Natural Language Processing (NLP)** systems (since 2026).
-  - Programming and optimizing custom **Discord Bots** (since 2024 - now).
-- **Cybersecurity & Research:** Studied network security and contributed to a research project on intelligent **IDS (Intrusion Detection Systems)** for network infrastructure protection.
-  - Deployed and configured a dedicated server to host customer data (Sep 2025 – Jan 2026)
-- **Infrastructure:** Hosting and maintaining multiplayer experiences for Minecraft, ARK: Survival Evolved/Ascended, GTA 5. (since 2025 - now).
+- **Experience:** 
+  - Former Teaching Assistant (TA) for an advanced international class focusing on Java and Python (Feb 2026 – June 2026).
+  - Deployed and configured a dedicated server to host customer data (Sep 2025 – Jan 2026).
 - **Research & Publications:**
-  - **ICEEIS 2026:** Co-authored the research paper **“Boundary-Guided LoRA Adaptation of SAM for Robust Cross-Dataset Polyp Segmentation”**.
-  - Research interests include **Computer Vision, Medical Image Segmentation, Deep Learning, and Parameter-Efficient Fine-Tuning**.
+  - **ICEEIS 2026:** Co-authored the research paper *"Boundary-Guided LoRA Adaptation of SAM for Robust Cross-Dataset Polyp Segmentation"*.
+  - **Research Interests & Directions:** Computer Vision, Medical Image Segmentation, Deep Learning, Parameter-Efficient Fine-Tuning, and **Natural Language Processing (NLP) systems** (since 2026).
+  - Studied network security and contributed to a research project on intelligent IDS (Intrusion Detection Systems) for network infrastructure protection.
+- **Projects & Development:**
+  - Programming and optimizing custom **Discord Bots** (since 2024 – present).
+  - Hosting and maintaining multiplayer infrastructure and experiences for Minecraft, ARK: Survival Evolved/Ascended, and GTA 5 (since 2025 – present).
 ---
 
 ### 🧠 Research Interests
