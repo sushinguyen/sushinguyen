@@ -12,7 +12,7 @@ I am an **Artificial Intelligence** student at Van Lang University (VLU) with fo
   - Deployed and configured a dedicated server to host customer data (Sep 2025 – Jan 2026).
 - **Research & Publications:**
   - **ICEEIS 2026:** Co-authored the research paper *"Boundary-Guided LoRA Adaptation of SAM for Robust Cross-Dataset Polyp Segmentation"*.
-  - **Research on Natural Language Processing Systems** (since 2026).
+  - Research on Natural Language Processing Systems(since 2026).
   - Studied network security and contributed to a research project on intelligent IDS (Intrusion Detection Systems) for network infrastructure protection.
 - **Projects & Development:**
   - Programming and optimizing custom **Discord Bots** (since 2024 – present).
