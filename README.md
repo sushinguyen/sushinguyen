@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nguyen Thi Xuan Huong!
+# Hi there 👋, I'm Nguyen Thi Xuan Huong!, my English name is Chloe
 
 I am an **Artificial Intelligence** student at Van Lang University (VLU) with foundational studies in **Cybersecurity**. I am deeply passionate about data science, AI systems, and developing smart automation workflows.
 
